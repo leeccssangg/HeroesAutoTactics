@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "580046359779",
+    "firebase_url": "https://tatic-f6451-default-rtdb.firebaseio.com",
+    "project_id": "tatic-f6451",
+    "storage_bucket": "tatic-f6451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580046359779:android:013dd903201ab4abf7c9d6",
+        "android_client_info": {
+          "package_name": "com.abi.tatic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDuGFu67Bys8yKW5_Z_HSlfWMBR0I8yNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a0ade73c3c6414199343315bd119231, type: 3}
+  m_Name: 3003_BabyPhoenix_AbilityPower_Level2
+  m_EditorClassIdentifier: 
+  <AbilityLevel>k__BackingField: 2
+  <Description>k__BackingField: '- Faint: Give the nearest friend behind +8 attack
+    and +4 health.'
+  <AbilityTrigger>k__BackingField: {fileID: 11400000, guid: bfae26ceb0ef99d4ca26a2c454292640, type: 2}
+  <AbilityTarget>k__BackingField: {fileID: 11400000, guid: c7add5c4a2080f447a338b9da21ff159, type: 2}
+  <Attack>k__BackingField: 0
+  <Health>k__BackingField: 0
+  <Projectile>k__BackingField: {fileID: 8606533206975555591, guid: 9e690bf9d5349b641bd8e28e7dee3738, type: 3}

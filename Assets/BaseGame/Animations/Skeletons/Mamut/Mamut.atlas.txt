@@ -1,0 +1,41 @@
+Mamut.png
+size:1908,540
+filter:Linear,Linear
+pma:true
+Layer 197 copy
+bounds:1375,15,131,190
+Layer 198 copy 2
+bounds:571,2,109,181
+rotate:90
+Layer 198 copy 3
+bounds:843,11,100,181
+rotate:90
+Layer 199 copy 2
+bounds:1776,272,127,263
+Layer 199 copy 3
+bounds:1776,7,117,263
+Layer 246
+bounds:1117,186,199,349
+Layer 247
+bounds:571,113,422,544
+rotate:90
+Layer 248
+bounds:1318,207,171,328
+Layer 249
+bounds:2,36,567,499
+Layer 251
+bounds:754,3,108,87
+rotate:90
+Layer 252
+bounds:1026,41,120,70
+Layer 253
+bounds:1666,184,45,44
+Layer 254
+bounds:1148,6,178,225
+rotate:90
+Layer 254 copy
+bounds:1508,4,156,224
+Layer 255
+bounds:1491,230,283,305
+x
+bounds:1026,3,36,36

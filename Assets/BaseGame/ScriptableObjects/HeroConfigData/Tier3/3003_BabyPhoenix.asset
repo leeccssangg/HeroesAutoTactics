@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6860374d6dd425c9679ffcfecb19454, type: 3}
+  m_Name: 3003_BabyPhoenix
+  m_EditorClassIdentifier: 
+  <SkeletonDataAsset>k__BackingField: {fileID: 0}
+  <SpriteIcon>k__BackingField: {fileID: 21300000, guid: 732dc6a02f4a9bd4ea8090aab4ed8751, type: 3}
+  <Rarity>k__BackingField: 3
+  <HeroId>k__BackingField: 3003
+  <HeroFamily>k__BackingField: 1
+  <HeroName>k__BackingField: BabyPhoenix
+  <IsToken>k__BackingField: 0
+  <AttackDamage>k__BackingField: 2
+  <HealthPoint>k__BackingField: 3
+  <HeroPrefab>k__BackingField: {fileID: 5559482365046198734, guid: 8d32082d186e672488ba09c31381e37a, type: 3}
+  <AbilityPower>k__BackingField:
+  - {fileID: 11400000, guid: 8654be3e4a8a1b94197d7985501e9813, type: 2}
+  - {fileID: 11400000, guid: 58041d191fac753469b6f549af31b29f, type: 2}
+  - {fileID: 11400000, guid: 82dd3e47c35f568408213a09f5d87303, type: 2}

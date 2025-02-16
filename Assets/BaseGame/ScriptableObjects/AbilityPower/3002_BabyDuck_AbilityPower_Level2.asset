@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bfa393fc262445c9bd0789dc84358bc, type: 3}
+  m_Name: 3002_BabyDuck_AbilityPower_Level2
+  m_EditorClassIdentifier: 
+  <AbilityLevel>k__BackingField: 2
+  <Description>k__BackingField: '- Start of Battle: give one Ally ahead 2 Exp'
+  <AbilityTrigger>k__BackingField: {fileID: 11400000, guid: 741ff9667077fce4db47561ddd55506d, type: 2}
+  <AbilityTarget>k__BackingField: {fileID: 11400000, guid: 0ec5f5deedec11c46a72958f43bf65dc, type: 2}
+  <ExpGain>k__BackingField: 2
+  <Projectile>k__BackingField: {fileID: 8606533206975555591, guid: 9e690bf9d5349b641bd8e28e7dee3738, type: 3}

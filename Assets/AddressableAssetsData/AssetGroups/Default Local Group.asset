@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 460a35160c0a0584a9a76c6d2341d341
+  m_SerializeEntries:
+  - m_GUID: 03f9b19b4d457b046976f00740678b13
+    m_Address: SheetHero
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12a5d7d6b66d9894d8e0c9c178da7b8e
+    m_Address: ActivityChangeView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 223b82ff318f2c7429e3880bb00b2561
+    m_Address: SheetMainMenu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d2433a0a68b192488b7c740e4f51a1b
+    m_Address: ActivitySelectHeroSynergy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34663c3b84730d24bb8ad466a8cb048a
+    m_Address: ActivityWaitTaskRunning
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42416d0b94a725f41b53270cf51b1704
+    m_Address: ModalProfileInfo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c97518345b30da44bebfe40f47c0e66
+    m_Address: ActivitySelectHeroSynergyGacha
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cdbafc42e7e1ec43b30b04d2fb2a6e9
+    m_Address: ScreenTitle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f77e4b6d087a7648b2f6044d717a4d3
+    m_Address: DefaultModalBackdrop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fd527a9751827c41a826734b472b06a
+    m_Address: ModalChangeUserName
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51b3dbc8f2ccc484fb842599feda9c07
+    m_Address: ScreenBattle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 589f4ddfa0cca9a40a6b0108b722ddd3
+    m_Address: ModalDailyGift
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cb92e530f912ca4daca1b1308e82809
+    m_Address: SheetPlayerInfoAvatar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67c90cb08ae30624890d86e965f61707
+    m_Address: ModalGachaHero
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a071b211b9bfd047969a54492cf5567
+    m_Address: ModalDraw
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c4f8ba1074d49a4bacdf9b98a1939c8
+    m_Address: ScreenLoading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7629d31565fe2694490ca354403e0625
+    m_Address: ActivityConnectionError
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a3dc4ba865e8124aa4bed0815b70840
+    m_Address: ScreenMainMenuTab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7dd7666263e5fba41a310e00a63d2481
+    m_Address: ModalLose
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e0f178046b99614b852fff00f6aa5a8
+    m_Address: ModalWin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90e7e60c7efa9814398e41c8ac1c4270
+    m_Address: ScreenPrepare
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96c830c4895a0f64a9500609961561ba
+    m_Address: SheetShop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3d7329aec691cd47abf6570afd612f7
+    m_Address: ModalGachaHeroReward
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aedbdb3918072194f9f0a2424c8b14c7
+    m_Address: ModalHeroInfo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2dd46fe901b48d40b67edf16fda9391
+    m_Address: SheetPlayerInfoFrame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d2c5a90a51c022f42914bfd08e33bc78, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d11839eaeb174ce418a0ca1ac02ce9a7, type: 2}
+    - {fileID: 11400000, guid: 90fe7b215bb1f4a42b2bf9f52296b9d6, type: 2}

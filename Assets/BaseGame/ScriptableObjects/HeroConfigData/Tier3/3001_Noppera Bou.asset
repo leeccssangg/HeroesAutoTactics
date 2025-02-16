@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6860374d6dd425c9679ffcfecb19454, type: 3}
+  m_Name: 3001_Noppera Bou
+  m_EditorClassIdentifier: 
+  <SkeletonDataAsset>k__BackingField: {fileID: 11400000, guid: c6a98301d1ebb4f4ca052626ca1cbed6, type: 2}
+  <SpriteIcon>k__BackingField: {fileID: 0}
+  <Rarity>k__BackingField: 3
+  <HeroId>k__BackingField: 3001
+  <HeroFamily>k__BackingField: 1
+  <HeroName>k__BackingField: Noppera Bou
+  <IsToken>k__BackingField: 0
+  <AttackDamage>k__BackingField: 3
+  <HealthPoint>k__BackingField: 2
+  <HeroPrefab>k__BackingField: {fileID: 4582719441110737316, guid: c4a884019def45f44bb34d250bf7d620, type: 3}
+  <AbilityPower>k__BackingField:
+  - {fileID: 11400000, guid: 5156a920f861b9c478ca4bd1203e8161, type: 2}
+  - {fileID: 11400000, guid: 21eff95dd79e12b42b821a6208765449, type: 2}
+  - {fileID: 11400000, guid: 812ac7e67a8361f49a8bb086573bf88b, type: 2}

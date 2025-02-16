@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6860374d6dd425c9679ffcfecb19454, type: 3}
+  m_Name: 3002_BabyDuck
+  m_EditorClassIdentifier: 
+  <SkeletonDataAsset>k__BackingField: {fileID: 0}
+  <SpriteIcon>k__BackingField: {fileID: 21300000, guid: cf791232f04be644ebb31a3a15d92e41, type: 3}
+  <Rarity>k__BackingField: 3
+  <HeroId>k__BackingField: 3002
+  <HeroFamily>k__BackingField: 1
+  <HeroName>k__BackingField: BabyDuck
+  <IsToken>k__BackingField: 0
+  <AttackDamage>k__BackingField: 3
+  <HealthPoint>k__BackingField: 3
+  <HeroPrefab>k__BackingField: {fileID: 7210043876320622794, guid: d5517da666f0f2e4a9c5db881fd33307, type: 3}
+  <AbilityPower>k__BackingField:
+  - {fileID: 11400000, guid: 2ecc7e8e3ad6b1e4f8ef254b41a9d256, type: 2}
+  - {fileID: 11400000, guid: 1db10fc2eac211343aa409781b571c5d, type: 2}
+  - {fileID: 11400000, guid: dbcb506018226f544a4992f37978a31f, type: 2}

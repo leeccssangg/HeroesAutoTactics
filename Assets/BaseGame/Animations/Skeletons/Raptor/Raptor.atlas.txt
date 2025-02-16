@@ -1,0 +1,25 @@
+Raptor.png
+size:1012,436
+filter:Linear,Linear
+pma:true
+6
+bounds:653,83,253,194
+rotate:90
+Group 16
+bounds:2,6,425,288
+rotate:90
+Group 17
+bounds:849,2,106,193
+Layer 160 copy
+bounds:653,338,305,93
+Layer 160 copy 2
+bounds:292,7,424,359
+rotate:90
+Layer 217
+bounds:849,197,161,139
+Layer 221
+bounds:653,7,97,74
+Shape 70
+bounds:960,359,35,34
+x
+bounds:960,395,36,36

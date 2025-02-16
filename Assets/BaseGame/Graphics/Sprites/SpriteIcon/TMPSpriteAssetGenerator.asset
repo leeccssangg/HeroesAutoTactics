@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0c04a878a0b48b6959ed062ca6faa88, type: 3}
+  m_Name: TMPSpriteAssetGenerator
+  m_EditorClassIdentifier: 
+  <TMPSpriteAsset>k__BackingField: {fileID: 11400000, guid: 421647ec359409f46908a42fd7cbb6ae, type: 2}
+  <Offset>k__BackingField: {x: 0, y: 100, z: 128}
+  <Scale>k__BackingField: 1
+  <MergeTexture2D>k__BackingField: {fileID: 2800000, guid: 0cef938525ae5f74cb01c2d78412952f, type: 3}
+  <SpriteInCurrentPath>k__BackingField:
+  - {fileID: 21300000, guid: 9f15a2e9e8da72b459b0a90d7732a178, type: 3}
+  - {fileID: 21300000, guid: 2833a903807f2e9408053341db5b4db5, type: 3}
+  - {fileID: 21300000, guid: f6b7a7bb2ddc7524cbafe2fc566d1a50, type: 3}
+  - {fileID: 21300000, guid: ecac9f5bb822cc546be5cbc9e08bfb73, type: 3}
+  - {fileID: 21300000, guid: 3df50a4485e8c204296e2689d70aab98, type: 3}
+  - {fileID: 21300000, guid: 02de2079b1f1f7145b8879aa44ac21e7, type: 3}
+  <Texture2DList>k__BackingField:
+  - {fileID: 2800000, guid: 9f15a2e9e8da72b459b0a90d7732a178, type: 3}
+  - {fileID: 2800000, guid: 2833a903807f2e9408053341db5b4db5, type: 3}
+  - {fileID: 2800000, guid: f6b7a7bb2ddc7524cbafe2fc566d1a50, type: 3}
+  - {fileID: 2800000, guid: ecac9f5bb822cc546be5cbc9e08bfb73, type: 3}
+  - {fileID: 2800000, guid: 3df50a4485e8c204296e2689d70aab98, type: 3}
+  - {fileID: 2800000, guid: 02de2079b1f1f7145b8879aa44ac21e7, type: 3}
+  <ObjectName>k__BackingField: TMPSpriteAssetGenerator
+  <ObjectPath>k__BackingField: Assets/BaseGame/Graphics/Sprites/SpriteIcon/TMPSpriteAssetGenerator.asset
+  <FolderPath>k__BackingField: Assets/BaseGame/Graphics/Sprites/SpriteIcon
+  <TexturePath>k__BackingField: Assets/BaseGame/Graphics/Sprites/SpriteIcon/TMPSpriteAssetGenerator.png
+  <TMPSpriteAssetPath>k__BackingField: Assets/BaseGame/Graphics/Sprites/SpriteIcon/TMPSpriteAssetGenerator_TMPSpriteAsset.asset
+  <Size>k__BackingField: {x: 128, y: 128}
+  <Row>k__BackingField: 3
+  <Column>k__BackingField: 3

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e33ad0d81d64bddb3559e50d00dcc3e, type: 3}
+  m_Name: 4002_Hitotsume_AbilityPower_Level2
+  m_EditorClassIdentifier: 
+  <AbilityLevel>k__BackingField: 2
+  <Description>k__BackingField: '- Faint: Summon two 2-Stars Lantern Ghost'
+  <AbilityTrigger>k__BackingField: {fileID: 11400000, guid: bfae26ceb0ef99d4ca26a2c454292640, type: 2}
+  <AbilityTarget>k__BackingField: {fileID: 11400000, guid: 81149d4db80f8cd49b5bf7cbe695a523, type: 2}
+  <Projectile>k__BackingField: {fileID: 8606533206975555591, guid: 9e690bf9d5349b641bd8e28e7dee3738, type: 3}
+  <Amount>k__BackingField: 2
+  <UnitId>k__BackingField: 1003
+  <Star>k__BackingField: 2
+  <Attack>k__BackingField: 0
+  <Health>k__BackingField: 0

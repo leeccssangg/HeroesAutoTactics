@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5786a591f644d20bffc2515d593bd33, type: 3}
+  m_Name: RarityGlobalConfig
+  m_EditorClassIdentifier: 
+  <RarityConfigs>k__BackingField:
+  - <Rarity>k__BackingField: 0
+    <RarityBackground>k__BackingField: {fileID: 0}
+    <RarityStroke>k__BackingField: {fileID: 0}
+  - <Rarity>k__BackingField: 1
+    <RarityBackground>k__BackingField: {fileID: 21300000, guid: a3e25b4cca630c74fa6393067b72e121, type: 3}
+    <RarityStroke>k__BackingField: {fileID: 21300000, guid: 943d4988d0252174e9431582eab5e675, type: 3}
+  - <Rarity>k__BackingField: 2
+    <RarityBackground>k__BackingField: {fileID: 21300000, guid: a3e25b4cca630c74fa6393067b72e121, type: 3}
+    <RarityStroke>k__BackingField: {fileID: 21300000, guid: 943d4988d0252174e9431582eab5e675, type: 3}
+  - <Rarity>k__BackingField: 3
+    <RarityBackground>k__BackingField: {fileID: 21300000, guid: 7576ddb520210774e8f0dcf6c3924387, type: 3}
+    <RarityStroke>k__BackingField: {fileID: 21300000, guid: fbec26082011c724d8cac0630d4fa121, type: 3}
+  - <Rarity>k__BackingField: 4
+    <RarityBackground>k__BackingField: {fileID: 21300000, guid: c23371161abb9694faaefe9aa70381c0, type: 3}
+    <RarityStroke>k__BackingField: {fileID: 21300000, guid: 5e8caccde7a8c274f8a094379e88cd43, type: 3}
+  - <Rarity>k__BackingField: 5
+    <RarityBackground>k__BackingField: {fileID: 21300000, guid: b23f6b6e2c7c58745aaab7fa76134f72, type: 3}
+    <RarityStroke>k__BackingField: {fileID: 21300000, guid: 1a8ad10cc84b252449c2ea740be0e3f3, type: 3}
+  - <Rarity>k__BackingField: 6
+    <RarityBackground>k__BackingField: {fileID: 21300000, guid: 431589eab35913547b8d0e92c7438540, type: 3}
+    <RarityStroke>k__BackingField: {fileID: 21300000, guid: 57ba899e2e6f6cb4fae9e73517ea4fae, type: 3}

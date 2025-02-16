@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6860374d6dd425c9679ffcfecb19454, type: 3}
+  m_Name: 6003_Nine Tail
+  m_EditorClassIdentifier: 
+  <SkeletonDataAsset>k__BackingField: {fileID: 11400000, guid: f8a7dd57ce33f3649a51ad613bb96806, type: 2}
+  <SpriteIcon>k__BackingField: {fileID: 0}
+  <Rarity>k__BackingField: 6
+  <HeroId>k__BackingField: 6003
+  <HeroFamily>k__BackingField: 1
+  <HeroName>k__BackingField: Nine Tail
+  <IsToken>k__BackingField: 0
+  <AttackDamage>k__BackingField: 5
+  <HealthPoint>k__BackingField: 8
+  <HeroPrefab>k__BackingField: {fileID: 2990032653400335008, guid: 6271961e8260a5f429edf2a2c64c670e, type: 3}
+  <AbilityPower>k__BackingField:
+  - {fileID: 11400000, guid: 6b2eea733af259d45a5e5bfc18827b0d, type: 2}
+  - {fileID: 11400000, guid: c47ed497aaaf878479fcd87616caf851, type: 2}
+  - {fileID: 11400000, guid: 300cf16f88a85b742b8499ca862dfa6c, type: 2}

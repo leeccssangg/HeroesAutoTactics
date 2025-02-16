@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c6fc24edb16b0f40828e39840d1964d, type: 3}
+  m_Name: HeroGenerateGlobalConfig
+  m_EditorClassIdentifier: 
+  <IdDataBase>k__BackingField: 148lC2c-LMI2lP2JYH3OTOSmhi2L7KMDrQF70dlUvxYA
+  <HeroBasePrefab>k__BackingField: {fileID: 1343088856323761024, guid: b946eae4abe4d4742aea14ca643bc16f, type: 3}
+  <HeroConfigDataList>k__BackingField:
+  - {fileID: 11400000, guid: b76a0e3c665d34b40b9ac002eb90b5b6, type: 2}
+  - {fileID: 11400000, guid: 15ccc09c87dd02a42a1290fb2d2dd4ed, type: 2}
+  - {fileID: 11400000, guid: 791ade3043db7934988586326f41dfda, type: 2}
+  - {fileID: 11400000, guid: 03bd1bfa11c3f39458169b5423eb005d, type: 2}
+  - {fileID: 11400000, guid: d7952492ac38fbd4cade86ac240ac489, type: 2}
+  - {fileID: 11400000, guid: aa38cd3256e0d3048933470db61d0866, type: 2}
+  - {fileID: 11400000, guid: dcc4c9c4eb781d540b39b6d60b509fa5, type: 2}
+  - {fileID: 11400000, guid: 48e59c1142e81e9449c4df885625501d, type: 2}
+  - {fileID: 11400000, guid: 2a7f419a7a4174548a4131aaa724618c, type: 2}
+  - {fileID: 11400000, guid: c027ff3a99069b14cb1ee744cb349d9f, type: 2}
+  - {fileID: 11400000, guid: 2d117afad5e65c146ab4bc0d14a45f49, type: 2}
+  - {fileID: 11400000, guid: 1d0db029be2c86643bd1b2e7c457961d, type: 2}
+  - {fileID: 11400000, guid: 0aa917abd8fa2444c9580837d6178879, type: 2}
+  - {fileID: 11400000, guid: bb273c8f9205cdb42ab9a10aa0c2e716, type: 2}
+  - {fileID: 11400000, guid: 33fe77916a38d9342896a0d1c8afe77f, type: 2}
+  - {fileID: 11400000, guid: a4f63397a05d1a044b2434e68d9ebc76, type: 2}
+  - {fileID: 11400000, guid: cc2ec47690c30c344ab204a8e2fde16e, type: 2}
+  - {fileID: 11400000, guid: ddddc393274b7104aa623852d531a677, type: 2}
+  - {fileID: 11400000, guid: 49a88d0fd73fdda42b167b6df622def1, type: 2}
+  - {fileID: 11400000, guid: 9959e7c7e29445c41ae30a00560743ff, type: 2}
+  - {fileID: 11400000, guid: bbde9a16990d6754e9464f9dbb784272, type: 2}
+  - {fileID: 11400000, guid: 52b9765e983420e43ae1986061334e28, type: 2}
+  - {fileID: 11400000, guid: 1447f6b9b92d4af45846eed26a4ad900, type: 2}
+  - {fileID: 11400000, guid: 2498fde2df21f154684b4eb6ada9379e, type: 2}
+  <HeroPrefabList>k__BackingField:
+  - {fileID: 7241640771200557345, guid: e1c093015c3c2f645b9ad2678564a1d6, type: 3}
+  - {fileID: 4131820950308176596, guid: f0b2975cf330d4e409a7a924a4ca2972, type: 3}
+  - {fileID: 7989150861216882511, guid: ba139469139645e4791ab14609a95d2c, type: 3}
+  - {fileID: 4011596425522000628, guid: 0fd436624674ea64483120303c4a731c, type: 3}
+  - {fileID: 2365862939571331735, guid: 1ad9efab272d395428fb2212c9c175a8, type: 3}
+  - {fileID: 3780827193813153719, guid: 5694af3fe3a83cc4a8e33a3ccb934e7a, type: 3}
+  - {fileID: 1818629513092578752, guid: a89858ae78809c5488c451eb33c821d8, type: 3}
+  - {fileID: 2041155449298008533, guid: 179e52a675d94da43ad3d319a25be058, type: 3}
+  - {fileID: 3371289050480855346, guid: b354cd6382537f64aa4f808a4deaae34, type: 3}
+  - {fileID: 3723644695614658744, guid: 70c07f323ffb42e4b9bc18d31c177302, type: 3}
+  - {fileID: 5104195601083709533, guid: 725314741a230c943988ec9b4332d077, type: 3}
+  - {fileID: 8557326432766343345, guid: 3d3e248a439296a49b29b88745f66e77, type: 3}
+  - {fileID: 4923786706521987879, guid: 7e4c7e553a444d34eb446dfdcd47266f, type: 3}
+  - {fileID: 1091384618481629608, guid: 792e7feb247d08f46afa49139bc83c9d, type: 3}
+  - {fileID: 411172611269999641, guid: c5a405f660730c94483539dc043a6e05, type: 3}
+  - {fileID: 429884135092519791, guid: ec9cc1e1c0340a8458d9dcb4da7558f6, type: 3}
+  - {fileID: 3253425309101828935, guid: 40784b8247425ac45a7e5fe099986b72, type: 3}
+  - {fileID: 1712797359456300482, guid: dcbf072f12b3bc740800dc765496448c, type: 3}
+  - {fileID: 5103088639452406948, guid: a02a2f5810dd04e4f903f99e71e52878, type: 3}

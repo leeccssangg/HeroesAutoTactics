@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6860374d6dd425c9679ffcfecb19454, type: 3}
+  m_Name: 6002_Oni
+  m_EditorClassIdentifier: 
+  <SkeletonDataAsset>k__BackingField: {fileID: 11400000, guid: 172ee17f60051b74aaaaec2963031454, type: 2}
+  <SpriteIcon>k__BackingField: {fileID: 0}
+  <Rarity>k__BackingField: 6
+  <HeroId>k__BackingField: 6002
+  <HeroFamily>k__BackingField: 1
+  <HeroName>k__BackingField: Oni
+  <IsToken>k__BackingField: 0
+  <AttackDamage>k__BackingField: 12
+  <HealthPoint>k__BackingField: 12
+  <HeroPrefab>k__BackingField: {fileID: 6420960491868081844, guid: 336a90a956934264cad4260a09c55a54, type: 3}
+  <AbilityPower>k__BackingField:
+  - {fileID: 11400000, guid: 982d6817d86e14b4ca9c91447a3d40ca, type: 2}
+  - {fileID: 11400000, guid: ad8a1991cbdb49049b9f2a97de556a9a, type: 2}
+  - {fileID: 11400000, guid: 574825c32ffb30141bf542d05d1db802, type: 2}

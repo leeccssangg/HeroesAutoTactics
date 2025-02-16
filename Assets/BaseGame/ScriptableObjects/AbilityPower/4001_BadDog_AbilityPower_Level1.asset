@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01d3dfa321cf403ba819f70dbd0fb47e, type: 3}
+  m_Name: 4001_BadDog_AbilityPower_Level1
+  m_EditorClassIdentifier: 
+  <AbilityLevel>k__BackingField: 1
+  <Description>k__BackingField: '- Start of Battle: Remove 20% health from ALL other
+    pets.'
+  <AbilityTrigger>k__BackingField: {fileID: 11400000, guid: 741ff9667077fce4db47561ddd55506d, type: 2}
+  <AbilityTarget>k__BackingField: {fileID: 11400000, guid: 674b13e87f2a1c9489de08765b9b63a8, type: 2}
+  <Attack>k__BackingField: 0
+  <Health>k__BackingField: 0
+  <Projectile>k__BackingField: {fileID: 8606533206975555591, guid: 9e690bf9d5349b641bd8e28e7dee3738, type: 3}

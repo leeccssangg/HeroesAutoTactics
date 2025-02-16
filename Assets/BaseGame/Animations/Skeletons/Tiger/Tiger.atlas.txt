@@ -1,0 +1,33 @@
+Tiger.png
+size:964,620
+filter:Linear,Linear
+pma:true
+Layer 222
+bounds:2,198,509,420
+Layer 223
+bounds:513,130,252,239
+Layer 224
+bounds:900,444,174,61
+rotate:90
+Layer 226
+bounds:640,2,152,126
+Layer 227
+bounds:794,26,126,103
+Layer 228
+bounds:513,371,385,247
+Layer 229
+bounds:2,9,187,275
+rotate:90
+Layer 231
+bounds:279,92,104,194
+rotate:90
+Layer 231 copy
+bounds:767,131,158,238
+Layer 233
+bounds:475,44,84,163
+rotate:90
+Layer 233 copy
+bounds:279,8,82,165
+rotate:90
+Shape 546
+bounds:900,396,46,46

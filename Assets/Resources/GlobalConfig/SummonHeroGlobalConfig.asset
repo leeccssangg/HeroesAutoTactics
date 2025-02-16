@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d84da72df4a1ba244999af6c6c791530, type: 3}
+  m_Name: SummonHeroGlobalConfig
+  m_EditorClassIdentifier: 
+  <NumAppearanceProbability>k__BackingField:
+    m_ProbabilityValueList:
+    - m_Object: 10
+      m_Chance: 1
+      m_Percentage: 100
+  <SummonHeroConfigProbability>k__BackingField:
+    m_ProbabilityValueList:
+    - m_Object:
+        <Type>k__BackingField: 1
+        <RewardAmount>k__BackingField: 1
+        <acquisitionRate>k__BackingField: 50
+      m_Chance: 30
+      m_Percentage: 26.785715
+    - m_Object:
+        <Type>k__BackingField: 2
+        <RewardAmount>k__BackingField: 1
+        <acquisitionRate>k__BackingField: 50
+      m_Chance: 30
+      m_Percentage: 26.785715
+    - m_Object:
+        <Type>k__BackingField: 3
+        <RewardAmount>k__BackingField: 1
+        <acquisitionRate>k__BackingField: 50
+      m_Chance: 20
+      m_Percentage: 17.857143
+    - m_Object:
+        <Type>k__BackingField: 4
+        <RewardAmount>k__BackingField: 1
+        <acquisitionRate>k__BackingField: 50
+      m_Chance: 20
+      m_Percentage: 17.857143
+    - m_Object:
+        <Type>k__BackingField: 5
+        <RewardAmount>k__BackingField: 1
+        <acquisitionRate>k__BackingField: 50
+      m_Chance: 10
+      m_Percentage: 8.928572
+    - m_Object:
+        <Type>k__BackingField: 6
+        <RewardAmount>k__BackingField: 1
+        <acquisitionRate>k__BackingField: 5
+      m_Chance: 2
+      m_Percentage: 1.7857143
+  <StartStage>k__BackingField: 5

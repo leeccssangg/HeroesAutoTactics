@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6860374d6dd425c9679ffcfecb19454, type: 3}
+  m_Name: 6001_Bat
+  m_EditorClassIdentifier: 
+  <SkeletonDataAsset>k__BackingField: {fileID: 0}
+  <SpriteIcon>k__BackingField: {fileID: 21300000, guid: 4252d184839491e449b1b272e59689aa, type: 3}
+  <Rarity>k__BackingField: 6
+  <HeroId>k__BackingField: 6001
+  <HeroFamily>k__BackingField: 1
+  <HeroName>k__BackingField: Bat
+  <IsToken>k__BackingField: 0
+  <AttackDamage>k__BackingField: 6
+  <HealthPoint>k__BackingField: 6
+  <HeroPrefab>k__BackingField: {fileID: 3728037804332485858, guid: ef6e1185b4875f14fae765c1b5f17123, type: 3}
+  <AbilityPower>k__BackingField:
+  - {fileID: 11400000, guid: 1a08044a777b01a4cbde7dd23e440dd9, type: 2}
+  - {fileID: 11400000, guid: 0bc2d17a78f39ee4cb43a7371b45c85f, type: 2}
+  - {fileID: 11400000, guid: d6cde76e8f239a34f9e58f26d91dc6f3, type: 2}

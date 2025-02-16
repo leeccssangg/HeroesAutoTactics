@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6860374d6dd425c9679ffcfecb19454, type: 3}
+  m_Name: 5001_Barghest
+  m_EditorClassIdentifier: 
+  <SkeletonDataAsset>k__BackingField: {fileID: 0}
+  <SpriteIcon>k__BackingField: {fileID: 21300000, guid: ca4890f71a5cd0e4cb8a6af26ad43999, type: 3}
+  <Rarity>k__BackingField: 5
+  <HeroId>k__BackingField: 5001
+  <HeroFamily>k__BackingField: 1
+  <HeroName>k__BackingField: Barghest
+  <IsToken>k__BackingField: 0
+  <AttackDamage>k__BackingField: 6
+  <HealthPoint>k__BackingField: 6
+  <HeroPrefab>k__BackingField: {fileID: 8814165144591606812, guid: 2a40f814f16ea6f47a1cbd3bc61f28ac, type: 3}
+  <AbilityPower>k__BackingField:
+  - {fileID: 11400000, guid: 7f5f4c7a0a02069488444cfc7bd4d631, type: 2}
+  - {fileID: 11400000, guid: 8bb382da5f78fe64cad21d29e86b3e0f, type: 2}
+  - {fileID: 11400000, guid: 477fc6004be5fa14580c8d52ef49940e, type: 2}

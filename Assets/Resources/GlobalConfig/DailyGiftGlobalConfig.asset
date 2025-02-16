@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba0b94bf37eda564f8b9eb94d639f0e2, type: 3}
+  m_Name: DailyGiftGlobalConfig
+  m_EditorClassIdentifier: 
+  gifts:
+  - dayID: 0
+    defaultGift:
+      <ResourceType>k__BackingField: 3
+      <Amount>k__BackingField:
+        m_Value: 30
+  - dayID: 1
+    defaultGift:
+      <ResourceType>k__BackingField: 1
+      <Amount>k__BackingField:
+        m_Value: 1000
+  - dayID: 2
+    defaultGift:
+      <ResourceType>k__BackingField: 0
+      <Amount>k__BackingField:
+        m_Value: 10
+  - dayID: 3
+    defaultGift:
+      <ResourceType>k__BackingField: 3
+      <Amount>k__BackingField:
+        m_Value: 60
+  - dayID: 4
+    defaultGift:
+      <ResourceType>k__BackingField: 1
+      <Amount>k__BackingField:
+        m_Value: 3000
+  - dayID: 5
+    defaultGift:
+      <ResourceType>k__BackingField: 0
+      <Amount>k__BackingField:
+        m_Value: 100
+  - dayID: 6
+    defaultGift:
+      <ResourceType>k__BackingField: 3
+      <Amount>k__BackingField:
+        m_Value: 40
+  - dayID: 7
+    defaultGift:
+      <ResourceType>k__BackingField: 1
+      <Amount>k__BackingField:
+        m_Value: 2000
+  - dayID: 8
+    defaultGift:
+      <ResourceType>k__BackingField: 0
+      <Amount>k__BackingField:
+        m_Value: 20
+  - dayID: 9
+    defaultGift:
+      <ResourceType>k__BackingField: 3
+      <Amount>k__BackingField:
+        m_Value: 80
+  - dayID: 10
+    defaultGift:
+      <ResourceType>k__BackingField: 1
+      <Amount>k__BackingField:
+        m_Value: 6000
+  - dayID: 11
+    defaultGift:
+      <ResourceType>k__BackingField: 0
+      <Amount>k__BackingField:
+        m_Value: 200
+  - dayID: 12
+    defaultGift:
+      <ResourceType>k__BackingField: 3
+      <Amount>k__BackingField:
+        m_Value: 50
+  - dayID: 13
+    defaultGift:
+      <ResourceType>k__BackingField: 1
+      <Amount>k__BackingField:
+        m_Value: 4000
+  - dayID: 14
+    defaultGift:
+      <ResourceType>k__BackingField: 0
+      <Amount>k__BackingField:
+        m_Value: 30
+  - dayID: 15
+    defaultGift:
+      <ResourceType>k__BackingField: 3
+      <Amount>k__BackingField:
+        m_Value: 100
+  - dayID: 16
+    defaultGift:
+      <ResourceType>k__BackingField: 1
+      <Amount>k__BackingField:
+        m_Value: 12000
+  - dayID: 17
+    defaultGift:
+      <ResourceType>k__BackingField: 0
+      <Amount>k__BackingField:
+        m_Value: 300
+  - dayID: 18
+    defaultGift:
+      <ResourceType>k__BackingField: 3
+      <Amount>k__BackingField:
+        m_Value: 60
+  - dayID: 19
+    defaultGift:
+      <ResourceType>k__BackingField: 1
+      <Amount>k__BackingField:
+        m_Value: 8000
+  - dayID: 20
+    defaultGift:
+      <ResourceType>k__BackingField: 0
+      <Amount>k__BackingField:
+        m_Value: 40
+  - dayID: 21
+    defaultGift:
+      <ResourceType>k__BackingField: 3
+      <Amount>k__BackingField:
+        m_Value: 120
+  - dayID: 22
+    defaultGift:
+      <ResourceType>k__BackingField: 1
+      <Amount>k__BackingField:
+        m_Value: 24000
+  - dayID: 23
+    defaultGift:
+      <ResourceType>k__BackingField: 0
+      <Amount>k__BackingField:
+        m_Value: 400
+  - dayID: 24
+    defaultGift:
+      <ResourceType>k__BackingField: 3
+      <Amount>k__BackingField:
+        m_Value: 70
+  - dayID: 25
+    defaultGift:
+      <ResourceType>k__BackingField: 1
+      <Amount>k__BackingField:
+        m_Value: 16000
+  - dayID: 26
+    defaultGift:
+      <ResourceType>k__BackingField: 0
+      <Amount>k__BackingField:
+        m_Value: 50
+  - dayID: 27
+    defaultGift:
+      <ResourceType>k__BackingField: 3
+      <Amount>k__BackingField:
+        m_Value: 140
+  - dayID: 28
+    defaultGift:
+      <ResourceType>k__BackingField: 1
+      <Amount>k__BackingField:
+        m_Value: 48000
+  - dayID: 29
+    defaultGift:
+      <ResourceType>k__BackingField: 0
+      <Amount>k__BackingField:
+        m_Value: 500
+  stages:
+  - dayCount: 7
+    reward:
+      <ResourceType>k__BackingField: 2
+      <Amount>k__BackingField:
+        m_Value: 10
+  - dayCount: 14
+    reward:
+      <ResourceType>k__BackingField: 2
+      <Amount>k__BackingField:
+        m_Value: 20
+  - dayCount: 21
+    reward:
+      <ResourceType>k__BackingField: 2
+      <Amount>k__BackingField:
+        m_Value: 30
+  - dayCount: 28
+    reward:
+      <ResourceType>k__BackingField: 2
+      <Amount>k__BackingField:
+        m_Value: 60
+  m_SheetDailyGiftConfig:
+    linkSheetID: 1bqgjysVRUWX4KzI9gYNsevG-lJgEnWIa96RwF5Ibp6g
+    linkSheetTabName: Daily Reward
